@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Choose a higher number. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="leveltwo">Choose a Roman numeral that is larger. \nThe questions may be repeated until you reach 20 points.</string>
+    <string name="leveloneEnd">"Congratulations, level passed!\n
+         Did you know that the number 7 is considered the luckiest number? There are 7 days a week, 7 continents, 7 colors of the rainbow, 7 musical notes, 7 days of Creation and much more.
+         Also the number 7 is most often the favorite number of people all over the world."</string>
+    <string name="leveltwoEnd">"Congratulations, level passed! \n
+         Did you know there is no 0 in Roman numerals? "</string>
+    <string name="levelthree">Which animal shows the tongue more?</string>
+    <string name="levelthreeEnd">Congratulations, level passed! \n
+     Did you know that a woodpecker, when it strikes a tree with its beak, draws in its tongue and wraps around its brain to protect it?</string>
+    <string name="levelfour">Choose something edible. \nQuestions may be repeated until you reach 20 points.</string>
+    <string name="levelfourEnd">Congratulations, level passed! \n
+     Many crocodiles are known to swallow stones. But not because they are edible for them. The stones help them sink into the water faster and stay at the bottom.</string>
+    <string name="levelfive">Who is from Africa?</string>
+    <string name="levelfiveEnd">"Congratulations, level passed! \n
+    Did you know that large ears help elephant regulate temperature because it can't sweat. "</string>
+</resources>
